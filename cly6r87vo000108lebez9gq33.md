@@ -15,7 +15,7 @@ You've probably seen images or GitHub repositories showing project folders in a 
 
 While IDEs like VS Code allow us to visualize folder structures, it's not easy to copy or fully view the entire structure. However, using the `tree` package in the Linux command terminal, you can easily view and manage your folder structure.
 
-In this article, let's explore how to install and use the `tree` command to view your folder's structure directly in your terminal. We'll also look at different flag options that let you customize your folder structure output according to your specific needs.
+In this article, let's explore how to install and use the `tree` command to view your folder's structure directly in your terminal. We'll also look at different flag options that let you customize your folder structure output according to your needs. Additionally, we'll explore how to save these structures into `Text`, `HTML`, `XML`, and `JSON` files.
 
 ## Installation
 
