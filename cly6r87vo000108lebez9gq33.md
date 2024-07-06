@@ -87,7 +87,7 @@ tree -a
 
 ### **Limit the depth of the directory.**
 
-To limit the number of nested directories you want to include in the tree structure, you can specify the number preceded by the `-L` flag. This will ignore folder files nested more deeply than the specified number:
+To include a limited number of nested directories in the tree structure, specify the number with the `-L` flag. This will ignore folder files nested more deeply than the specified number:
 
 ```bash
 tree -L 2
@@ -109,7 +109,7 @@ tree -d
 
 ### **Ignoring specific folders:**
 
-If you want to ignore specific folders or files from the structured output, use the `-I` flag followed by the folder or file name. For example, to ignore the `node_modules`, `.git` folder and `.env` file:
+To ignore specific folders or files in the structured output, use the `-I` flag followed by the folder or file name. For example, to ignore the `node_modules`, `.git` folder and `.env` file we can specify the command like this:
 
 ```bash
 tree -I 'node_modules|.git|.env'
