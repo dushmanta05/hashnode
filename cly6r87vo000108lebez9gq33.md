@@ -105,7 +105,7 @@ With the `-d` flag, you can ignore files and list only the directories in the fo
 tree -d
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720274999648/e33ed8b1-07ec-485d-a3d9-568d53d9733b.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720276822561/2b021651-f02d-484b-bb5b-628a15bfc4c1.png align="left")
 
 ### **Ignoring specific folders:**
 
