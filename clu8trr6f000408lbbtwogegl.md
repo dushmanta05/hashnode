@@ -32,10 +32,10 @@ After successfully adding your GPG keys to your GitHub account, the next step in
 * The result will look something like this:
     
     ```yaml
-     sec   rsa3072/A369A9BFD11F6F60 2024-03-14 [SC]
-           441F9580CF1B5238C3F0B2FCA369A9BFD11F6F60
-     uid                 [ultimate] John Doe (Example) <john.doe@example.com>
-     ssb   rsa3072/F038B8C5AD80A86D 2024-03-14 [E]
+    sec   rsa3072/A369A9BFD11F6F60 2024-03-14 [SC]
+          441F9580CF1B5238C3F0B2FCA369A9BFD11F6F60
+    uid                 [ultimate] John Doe (Example) <john.doe@example.com>
+    ssb   rsa3072/F038B8C5AD80A86D 2024-03-14 [E]
     ```
     
     In this output, the key ID is highlighted in the "sec" line, next to "rsa3072/". Here the key ID is "A369A9BFD11F6F60."
