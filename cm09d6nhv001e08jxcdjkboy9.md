@@ -140,8 +140,8 @@ git config commit.gpgsign true
 Once you have successfully updated the configuration, running the `git config --list` command will show something like this:
 
 ```bash
-user.email=dushmanta.behera@hyscaler.com
-user.name=Dushmanta Behera
+user.email=global@user.com
+user.name=Global User
 user.signingkey=<Your GPG Signing Key>
 commit.gpgsign=true
 init.defaultbranch=main
@@ -149,8 +149,8 @@ core.repositoryformatversion=0
 core.filemode=true
 core.bare=false
 core.logallrefupdates=true
-user.name=Dushmanta
-user.email=dushmanta0511@gmail.com
+user.email=your-email@example.com
+user.name=Your Name
 # Below will show if you've added a new GPG keys
 user.signingkey=<Your GPG Signing Key>
 commit.gpgsign=true
