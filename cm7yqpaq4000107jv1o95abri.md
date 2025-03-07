@@ -21,11 +21,11 @@ This is where SAML comes into the picture. SAML authentication solves this overh
 
 SAML, or Security Assertion Markup Language, is an open standard based on XML (Extensible Markup Language) used for authentication and sharing identity data. SAML transmits authentication and identity data using an XML data structure over HTTP or SOAP methods. This data is exchanged between an organization’s **Identity Provider (IdP)** and a **Service Provider (SP)**—which we will discuss next.
 
-#### **Identity Provider (IdP):**
+### **Identity Provider (IdP):**
 
 In SAML authentication, the **Identity Provider (IdP)** is the entity that provides identity information about the user who needs authentication. The IdP can be your organization itself, or if you're using a third-party service like Google or Okta, then it will act as the IdP.
 
-#### **Service Provider (SP):**
+### **Service Provider (SP):**
 
 The **Service Provider (SP)** is the entity that offers services to the organization and its users. For example, Microsoft 365 and Google Workspace act as Service Providers for organizations integrating with them. Any platform that provides a service and support SAML authentication can be considered an SP.
 
