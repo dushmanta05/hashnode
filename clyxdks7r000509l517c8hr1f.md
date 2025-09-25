@@ -5,8 +5,7 @@ seoDescription: "Learn to delete Twilio message logs in a Node.js application wi
 datePublished: Mon Jul 22 2024 19:23:53 GMT+0000 (Coordinated Universal Time)
 cuid: clyxdks7r000509l517c8hr1f
 slug: simple-steps-to-delete-twilio-message-logs-in-a-nodejs-application
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721676049921/4578bee3-ff5c-47e8-81bf-ebe37a6e63e3.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1721676080628/3e456772-46a1-4ec4-a679-827014af7b8b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1758827459203/dacf5bd2-5cc0-4199-80ed-393c7a900621.png
 tags: nodejs, twilio
 
 ---
