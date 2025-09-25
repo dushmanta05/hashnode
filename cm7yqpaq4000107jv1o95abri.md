@@ -5,8 +5,7 @@ seoDescription: "Learn about SAML authentication, its definitions, workings, and
 datePublished: Fri Mar 07 2025 12:16:26 GMT+0000 (Coordinated Universal Time)
 cuid: cm7yqpaq4000107jv1o95abri
 slug: understanding-saml-authentication-key-concepts-and-differences-between-sp-and-idp-initiated-flows
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741349301800/a5658d4c-c526-4894-929f-b542519d9ea1.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1741349755572/642f0991-dad5-4922-bb9e-3d9cbd391b3a.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1758827322955/b5f38c13-9fe3-4c37-aaad-e06f107264f3.png
 tags: authentication, saml
 
 ---
