@@ -5,7 +5,7 @@ seoDescription: "Learn how to host your website on a VPS using Caddy Server and 
 datePublished: Mon Nov 11 2024 22:39:07 GMT+0000 (Coordinated Universal Time)
 cuid: cm3dlv9cu00130ala22f82guq
 slug: step-by-step-guide-to-hosting-your-website-on-a-vps-using-caddy-server-and-cloudflare
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1758661484412/17adb1b5-c07d-440f-a6d1-2aa20f367eb8.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1758827369965/6187a5f9-31b8-4e24-93b6-462eb118c872.png
 tags: cloudflare, digitalocean, droplet, caddy, vps-hosting
 
 ---
