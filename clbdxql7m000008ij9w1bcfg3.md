@@ -3,8 +3,7 @@ title: "How to Use Array.indexOf() for Comparing Multiple Items in JavaScript"
 datePublished: Wed Dec 07 2022 17:39:39 GMT+0000 (Coordinated Universal Time)
 cuid: clbdxql7m000008ij9w1bcfg3
 slug: using-arrayindexof-to-compare-multiple-items-in-javascript
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721543450956/60cda3ed-2dfb-4c3d-bd44-6f7f71115d1d.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1721543471927/778111a9-cd45-447d-950d-c0deaf65b896.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1760939033858/d505fb90-a841-46c3-b77f-3c799f7bbe33.png
 tags: javascript
 
 ---
