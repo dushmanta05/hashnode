@@ -5,8 +5,7 @@ seoDescription: "Learn how to configure a Git repository with a custom branch na
 datePublished: Mon Apr 29 2024 20:18:39 GMT+0000 (Coordinated Universal Time)
 cuid: clvlejnbr00020alc6uwh1h0u
 slug: easy-guide-to-configuring-a-git-repository-with-a-custom-branch-name
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714421261370/effd829f-0ad1-4706-815b-49cc52f01ee4.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1714421863187/4ebde5b8-898d-4954-bff9-ba560c3bf524.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1760945786765/2b86ed87-a6bb-4121-938f-a58b9a9cbf3f.png
 tags: git
 
 ---
