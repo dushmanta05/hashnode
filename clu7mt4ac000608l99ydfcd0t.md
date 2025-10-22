@@ -5,8 +5,7 @@ seoDescription: "Learn how to generate GPG keys and add them to your GitHub acco
 datePublished: Tue Mar 26 2024 00:21:29 GMT+0000 (Coordinated Universal Time)
 cuid: clu7mt4ac000608l99ydfcd0t
 slug: generating-and-adding-gpg-keys-to-your-github-account
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711415591372/8e5bd258-1b20-4e2b-b8d5-a17e2edf37a5.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711415600868/9fc0a286-b016-4e6a-8a12-cd02c7c09c75.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761110516695/52d90cd1-dc69-4926-9ef0-6be23b2a8554.png
 tags: github, gpg-key
 
 ---
