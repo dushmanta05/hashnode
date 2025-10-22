@@ -5,8 +5,7 @@ seoDescription: "Learn how to push code to main branch, feature branch and other
 datePublished: Sun Sep 17 2023 19:58:44 GMT+0000 (Coordinated Universal Time)
 cuid: clmnvrdhx000009mc5kmxfmnr
 slug: git-guide-pushing-code-to-remote-feature-branches-and-best-practices
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694979390507/e5713df7-9378-4a95-baf3-14e552afd7c4.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711414121808/d1bf90ad-66e0-4e23-9ad6-17199c3c769d.avif
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761130711157/4c6ee601-2110-49b6-951e-a039afaa5258.png
 tags: github, git
 
 ---
