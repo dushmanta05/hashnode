@@ -5,8 +5,7 @@ seoDescription: "Learn how to view, customize, and save tree-like directory stru
 datePublished: Thu Jul 04 2024 04:16:15 GMT+0000 (Coordinated Universal Time)
 cuid: cly6r87vo000108lebez9gq33
 slug: how-to-view-customize-and-save-tree-like-directory-structure-in-linux
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720110170770/faa6fab3-a008-4de5-81c1-92911455d2a2.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720110192199/49bb44c2-c459-44bc-a4de-71c0379528e9.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761132908083/6a7032ad-87eb-44bf-ba41-d5703bf206fd.png
 tags: ubuntu, linux
 
 ---
