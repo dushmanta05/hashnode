@@ -5,8 +5,7 @@ seoDescription: "Learn how SSH keys work and follow the simple steps to generate
 datePublished: Sat Oct 05 2024 08:38:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm1vwjw2h001x09mg9ooe5aqv
 slug: understanding-ssh-keys-how-they-work-and-steps-to-create-your-own
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1728112877732/4385c706-900e-46a9-a22f-7828b55d5350.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1728117136851/bee56b98-8cb6-49a9-a0f0-ea648557aa29.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761136523863/2b9fdd7a-f5be-46c9-be5f-de5160c305ca.png
 tags: ssh, ssh-keys, ssh-keygen
 
 ---
