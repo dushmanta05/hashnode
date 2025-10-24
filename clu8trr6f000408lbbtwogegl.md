@@ -5,8 +5,7 @@ seoDescription: "Learn how to sign Git commits with GPG keys with  this comprehe
 datePublished: Tue Mar 26 2024 20:24:09 GMT+0000 (Coordinated Universal Time)
 cuid: clu8trr6f000408lbbtwogegl
 slug: how-to-sign-your-git-commits-with-gpg-keys
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711484516805/7acb48b1-ff23-45d6-9bcb-5671f2f84f12.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1711484572717/fe2e1ec2-3aa4-436e-a51d-81941820f9d9.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761294197183/62afcbab-c325-403c-916c-1ef42691a7d1.png
 tags: github, git, gpg, gpg-key
 
 ---
