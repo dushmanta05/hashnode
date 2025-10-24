@@ -5,8 +5,7 @@ seoDescription: "Understanding first-class and higher-order functions in JavaScr
 datePublished: Mon Aug 21 2023 20:01:36 GMT+0000 (Coordinated Universal Time)
 cuid: clllaz2cs000f0amn9aw8f440
 slug: first-class-function-and-higher-order-function
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692647844231/6f3efe3b-3277-42b0-b69f-d5cacce7208e.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1721589115055/20539407-b0a2-4578-9ebd-1afae92fa0c4.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761304478999/2c5ee4bc-e693-4584-bdd5-1c189609074c.png
 tags: javascript, higher-order-functions, first-class-functions
 
 ---
