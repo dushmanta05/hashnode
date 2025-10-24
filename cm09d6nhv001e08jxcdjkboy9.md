@@ -5,8 +5,7 @@ seoDescription: "Learn how to configure Git for a specific repository with a dif
 datePublished: Sun Aug 25 2024 09:25:51 GMT+0000 (Coordinated Universal Time)
 cuid: cm09d6nhv001e08jxcdjkboy9
 slug: simple-steps-to-configure-git-for-a-specific-repo-with-a-different-user
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724577874103/5f767259-159d-489c-9ee1-bee79c6a1c96.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1724577904867/164e0978-5d4c-45fb-b565-2d0a4fd28894.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761288008468/01fa39e5-e589-4784-a140-20df7cf78863.png
 tags: github, git, gitlab
 
 ---
